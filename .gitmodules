@@ -1,0 +1,4 @@
+[submodule "samples/tutorial/FGPU/FGPU/hw"]
+	path = samples/tutorial/FGPU/FGPU/hw
+	url = https://github.com/jh46537/FGPU.git
+	branch = syn_half
